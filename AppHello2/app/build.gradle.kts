@@ -2,6 +2,9 @@ plugins {
     alias(libs.plugins.android.application)
 }
 
+
+
+
 android {
     namespace = "br.edu.fatecpg.apphello2"
     compileSdk {
